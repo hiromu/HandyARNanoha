@@ -1,0 +1,17 @@
+# HandyARNanoha
+
+This is a non marker version of ARNanoha
+It uses HandyAR (http://ilab.cs.ucsb.edu/projects/taehee/HandyAR/)
+
+## How to use
+
+    make
+    cd bin
+    ./AR -model Model(1|2)
+
+Model1 for Mid-Childa Magical Circle  
+Model2 for Velka Magical Circle  
+
+## License
+
+It distrubuted under MIT Lisence

@@ -1,0 +1,12 @@
+coordframe
+name="base0"
+   marker
+     id=1023
+     //-list of corners cw from top left
+     vtx=-50, 50,0 //upper left
+     vtx= 50, 50,0 //upper right
+     vtx= 50,-50,0 //lower right
+     vtx=-50,-50,0 //lower left
+   /marker
+/coordframe
+
