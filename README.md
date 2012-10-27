@@ -16,7 +16,7 @@ Model2 for Velka Magical Circle
 
 ## License
 
-It is distrubuted under MIT Lisence.
+It is distrubuted under MIT License.
 
 The model of Mid-Childa Magical Circle: http://mclab.uunyan.com/lab/motn_maho/
 
