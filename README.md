@@ -4,6 +4,8 @@ This is a non marker version of ARNanoha
 
 It uses linux ported version of HandyAR (http://ilab.cs.ucsb.edu/projects/taehee/HandyAR/)
 
+There is the sample movie at http://www.youtube.com/watch?v=6GTQvJ_tfo4
+
 ## How to use
 
     make
